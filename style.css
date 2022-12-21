@@ -5,3 +5,8 @@
 .please_work {
     color: blue;
 }
+
+.container_for_text {
+    position: relative;
+    margin: 100px;
+}
