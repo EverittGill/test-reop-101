@@ -1,3 +1,7 @@
-h1 {
+.heading {
     color: red;
+}
+
+.please_work {
+    color: blue;
 }
